@@ -1,4 +1,4 @@
-This app doesn's store any user data and doesn't track app usage.
+This app doesn's store any user data.
 
 Best regards,
 Ian Bernatcki
